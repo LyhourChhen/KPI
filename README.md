@@ -1,4 +1,5 @@
 # KPI
+![DEMO](https://i.imgur.com/D9w8YF0.png)
 
 The Official package manager for KOOMPI & KRAMA OS
 
